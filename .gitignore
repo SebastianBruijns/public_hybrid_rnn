@@ -1,0 +1,7 @@
+
+processed_data/all_mice.csv
+.env
+.venv
+__pycache__/
+*.p
+*.png

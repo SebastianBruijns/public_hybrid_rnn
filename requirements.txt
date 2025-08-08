@@ -1,0 +1,13 @@
+scipy
+numpy
+pandas
+matplotlib
+jax
+dm-haiku
+optax
+pyarrow
+fastparquet
+seaborn
+
+figrid
+imageio
